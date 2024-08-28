@@ -1,6 +1,7 @@
-div{
-    width: 900px;
-    height: 900px;
-    background-color: red;
+h1{
+    color: red;
 }
 
+p{
+    font-size: 20px;
+}
